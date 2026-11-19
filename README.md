@@ -13,7 +13,7 @@
 
 
 ### 1. IDENTIFICAÇÃO - 
-
+Projeto analisado com codacy
 
 O **Trafe Go** é um sistema destinado a uma empresa de logística que apresenta limitações em relação ao atual processo administrativo. 
 
