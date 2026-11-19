@@ -1,5 +1,5 @@
 import { Stack } from 'expo-router';
-
+//codacy acorde pelo amor de Deus
 export default function TelasLoginLayout() {
     return (
         <Stack>
